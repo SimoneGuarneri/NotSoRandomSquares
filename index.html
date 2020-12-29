@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Not so Random Squares</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
+
+        <!-- P5js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+
+        <!-- randomColor.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.6.1/randomColor.min.js"></script>
+        
+    </head>
+    <body>
+        
+        <button class="another" id="restart">🔥</button>
+        <script src="sketch.js"></script>
+
+    </body>
+
+    <script>
+        document.getElementById("restart").addEventListener("click", () => {
+            resetDraw();
+        });
+
+    </script>
+</html>
