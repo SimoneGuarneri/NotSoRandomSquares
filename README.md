@@ -4,7 +4,7 @@
 
 **To save images, just right click on the canvas**
 
-**Demo:** [here](simoneguarneri.github.io/NotSoRandomSquares/index.html)
+**Demo:** [here](https://simoneguarneri.github.io/NotSoRandomSquares/index.html)
 
 # Made using:
 
