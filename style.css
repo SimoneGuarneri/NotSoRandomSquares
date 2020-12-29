@@ -27,7 +27,7 @@ html, body{
 }
 .another:hover{
     animation: bgAnimation .5s forwards;
-    background: tomato;
+    background: rgba(0,  0, 0, .2);
 }
 
 @keyframes bgAnimation{
