@@ -4,6 +4,8 @@
 
 **To save images, just right click on the canvas**
 
+**Demo:** [here](simoneguarneri.github.io/NotSoRandomSquares/index.html)
+
 # Made using:
 
 - [p5js](https://p5js.org)
