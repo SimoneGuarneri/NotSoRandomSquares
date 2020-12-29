@@ -11,6 +11,6 @@
 
 ## Some Examples
 
-![example 1](https://imgur.com/gSwzQnR)
-![example 2](https://imgur.com/JBKdZZA)
-![example 3](https://imgur.com/YF3O5A1)
+![example 1](https://i.imgur.com/YF3O5A1.jpg)
+![example 2](https://i.imgur.com/JBKdZZA.jpg)
+![example 3](https://i.imgur.com/h1V9ox1.jpg)
