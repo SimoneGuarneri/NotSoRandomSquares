@@ -1,6 +1,6 @@
 # Not So Random Squares
 
-> Random square art(?) made in p5js in 1hour of boring
+_**Random square art(?) made in p5js in 1hour of boring**_
 
 **To save images, just right click on the canvas**
 
